@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Description>该项目列出了 .NET 常用的字符串, 如格式化参数字符串等等, 慢慢的你会发现, 它会教会你怎么使用它们, 并记住它们。</Description>
+    <Copyright>Copyright © NXHub</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Version>0.0.1-alpha</Version>
+    <PackageTags>nxhub dotnetcore constants</PackageTags>
+    <PackageProjectUrl>https://github.com/Dudeping/Utils/tree/master/src/NXHub.Utils</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Dudeping/Utils/master/docs/icons/Utils.ico</PackageIconUrl>
+    <RepositoryUrl>https://github.com/Dudeping/Utils.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>添加了 C# 常用的格式化字符串。</PackageReleaseNotes>
+    <SignAssembly>false</SignAssembly>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Company>NXHub</Company>
+    <Authors>Codeping</Authors>
+  </PropertyGroup>
+
+</Project>
